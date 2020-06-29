@@ -1,0 +1,4 @@
+ew_bsp_system.c:72:13:SystemClock_Config	136	static
+ew_bsp_system.c:138:6:MX_GPIO_Init	48	static
+ew_bsp_system.c:192:6:EwBspSystemInit	8	static
+ew_bsp_system.c:221:6:EwBspSystemDone	4	static

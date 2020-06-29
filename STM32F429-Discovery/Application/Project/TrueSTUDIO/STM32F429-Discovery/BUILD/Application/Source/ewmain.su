@@ -1,0 +1,6 @@
+ewmain.c:131:5:EwInit	64	static
+ewmain.c:201:6:EwDone	8	static
+ewmain.c:254:5:EwProcess	64	static
+ewmain.c:363:13:EwUpdate	80	static
+ewmain.c:431:14:EwGetKeyCommand	4	static
+ewmain.c:465:6:EwPrintSystemInfo	8	static

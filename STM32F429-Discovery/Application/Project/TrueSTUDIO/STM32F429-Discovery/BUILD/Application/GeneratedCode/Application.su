@@ -1,0 +1,6 @@
+Application.c:61:6:ApplicationApplication__Init	48	static
+Application.c:108:6:ApplicationApplication__ReInit	16	static
+Application.c:123:6:ApplicationApplication__Done	16	static
+Application.c:141:6:ApplicationApplication_OnSetProperty	16	static
+Application.c:152:6:ApplicationApplication_Slot	24	static
+Application.c:249:6:ApplicationApplication_OnSetProperty1	16	static
